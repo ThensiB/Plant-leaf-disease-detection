@@ -1,0 +1,23 @@
+Angular Moment:
+	It measrues the uniformity of an image.(Check whether all the pixels in the leaf are of same intensity)
+	
+Covarinace:
+	It represents the random variations in pixel values to measure texture parameters in 4 directions.
+
+The sum and difference entropies:
+	disorderness
+	
+entropy:
+	information of an image
+	
+information correlation:
+	measure of dependency between two 
+
+entropy:
+	measure of similarity
+	
+contrast:
+	Contrast is the difference in luminance or colour that makes an object (or its representation in an image or display) distinguishable.
+	
+Correlation:
+
